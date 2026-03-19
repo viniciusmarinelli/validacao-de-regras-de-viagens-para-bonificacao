@@ -1,0 +1,501 @@
+﻿Id Viagem;Data Viagem;Tipo de Viagem;Driver;Status de registro
+V01;11/01/2026;Magro;driver_truck_45;Concluído
+V02;09/01/2026;Gordo;driver_truck_04;Em Andamento
+V03;25/01/2026;Gordo;driver_truck_16;Não Iniciado
+V04;16/01/2026;Magro;driver_truck_20;Concluído
+V05;02/01/2026;Gordo;driver_truck_35;Em Andamento
+V06;14/01/2026;Gordo;driver_truck_01;Em Andamento
+V07;01/01/2026;Gordo;driver_truck_28;Concluído
+V08;10/01/2026;Magro;driver_truck_10;Em Andamento
+V09;25/01/2026;Gordo;driver_truck_17;Concluído
+V10;10/01/2026;Magro;driver_truck_04;Concluído
+V11;22/01/2026;Magro;driver_truck_23;Em Andamento
+V12;28/01/2026;Magro;driver_truck_42;Concluído
+V13;13/01/2026;Magro;driver_truck_25;Não Iniciado
+V14;22/01/2026;Magro;driver_truck_24;Em Andamento
+V15;22/01/2026;Gordo;driver_truck_03;Não Iniciado
+V16;12/01/2026;Magro;driver_truck_39;Não Iniciado
+V17;05/01/2026;Magro;driver_truck_06;Concluído
+V18;07/01/2026;Magro;driver_truck_40;Não Iniciado
+V19;13/01/2026;Gordo;driver_truck_49;Não Iniciado
+V20;14/01/2026;Magro;driver_truck_32;Não Iniciado
+V21;26/01/2026;Gordo;driver_truck_20;Concluído
+V22;23/01/2026;Magro;driver_truck_06;Em Andamento
+V23;09/01/2026;Gordo;driver_truck_28;Em Andamento
+V24;26/01/2026;Magro;driver_truck_05;Não Iniciado
+V25;24/01/2026;Gordo;driver_truck_13;Em Andamento
+V26;04/01/2026;Gordo;driver_truck_48;Concluído
+V27;31/01/2026;Gordo;driver_truck_35;Concluído
+V28;13/01/2026;Gordo;driver_truck_20;Não Iniciado
+V29;07/01/2026;Gordo;driver_truck_21;Concluído
+V30;20/01/2026;Gordo;driver_truck_17;Concluído
+V31;28/01/2026;Magro;driver_truck_49;Em Andamento
+V32;23/01/2026;Magro;driver_truck_19;Concluído
+V33;13/01/2026;Magro;driver_truck_32;Em Andamento
+V34;16/01/2026;Gordo;driver_truck_37;Concluído
+V35;10/01/2026;Gordo;driver_truck_46;Não Iniciado
+V36;29/01/2026;Magro;driver_truck_14;Não Iniciado
+V37;23/01/2026;Magro;driver_truck_07;Concluído
+V38;07/01/2026;Magro;driver_truck_21;Concluído
+V39;04/01/2026;Magro;driver_truck_26;Concluído
+V40;17/01/2026;Magro;driver_truck_16;Não Iniciado
+V41;06/01/2026;Magro;driver_truck_40;Concluído
+V42;09/01/2026;Magro;driver_truck_49;Concluído
+V43;20/01/2026;Gordo;driver_truck_06;Não Iniciado
+V44;27/01/2026;Magro;driver_truck_35;Não Iniciado
+V45;09/01/2026;Gordo;driver_truck_26;Não Iniciado
+V46;21/01/2026;Gordo;driver_truck_45;Não Iniciado
+V47;19/01/2026;Gordo;driver_truck_03;Não Iniciado
+V48;18/01/2026;Gordo;driver_truck_34;Concluído
+V49;11/01/2026;Gordo;driver_truck_03;Concluído
+V50;23/01/2026;Gordo;driver_truck_17;Não Iniciado
+V51;18/01/2026;Gordo;driver_truck_08;Concluído
+V52;19/01/2026;Magro;driver_truck_30;Não Iniciado
+V53;04/01/2026;Magro;driver_truck_10;Não Iniciado
+V54;20/01/2026;Magro;driver_truck_45;Em Andamento
+V55;16/01/2026;Magro;driver_truck_14;Concluído
+V56;24/01/2026;Gordo;driver_truck_38;Concluído
+V57;16/01/2026;Magro;driver_truck_10;Não Iniciado
+V58;28/01/2026;Magro;driver_truck_08;Em Andamento
+V59;30/01/2026;Magro;driver_truck_21;Em Andamento
+V60;26/01/2026;Gordo;driver_truck_35;Em Andamento
+V61;14/01/2026;Magro;driver_truck_15;Em Andamento
+V62;08/01/2026;Gordo;driver_truck_16;Em Andamento
+V63;20/01/2026;Magro;driver_truck_21;Concluído
+V64;12/01/2026;Gordo;driver_truck_03;Concluído
+V65;25/01/2026;Magro;driver_truck_36;Não Iniciado
+V66;07/01/2026;Gordo;driver_truck_20;Em Andamento
+V67;16/01/2026;Magro;driver_truck_43;Concluído
+V68;11/01/2026;Gordo;driver_truck_07;Em Andamento
+V69;13/01/2026;Gordo;driver_truck_10;Não Iniciado
+V70;28/01/2026;Gordo;driver_truck_35;Em Andamento
+V71;16/01/2026;Magro;driver_truck_14;Concluído
+V72;07/01/2026;Gordo;driver_truck_41;Não Iniciado
+V73;28/01/2026;Magro;driver_truck_10;Não Iniciado
+V74;23/01/2026;Gordo;driver_truck_07;Em Andamento
+V75;07/01/2026;Magro;driver_truck_41;Concluído
+V76;05/01/2026;Magro;driver_truck_14;Concluído
+V77;22/01/2026;Gordo;driver_truck_42;Concluído
+V78;23/01/2026;Magro;driver_truck_40;Em Andamento
+V79;29/01/2026;Gordo;driver_truck_26;Concluído
+V80;26/01/2026;Gordo;driver_truck_07;Não Iniciado
+V81;07/01/2026;Magro;driver_truck_18;Em Andamento
+V82;16/01/2026;Magro;driver_truck_20;Concluído
+V83;24/01/2026;Magro;driver_truck_25;Não Iniciado
+V84;13/01/2026;Gordo;driver_truck_47;Concluído
+V85;25/01/2026;Gordo;driver_truck_46;Em Andamento
+V86;27/01/2026;Gordo;driver_truck_27;Em Andamento
+V87;25/01/2026;Magro;driver_truck_04;Não Iniciado
+V88;09/01/2026;Magro;driver_truck_16;Não Iniciado
+V89;10/01/2026;Magro;driver_truck_38;Em Andamento
+V90;22/01/2026;Magro;driver_truck_30;Não Iniciado
+V91;08/01/2026;Gordo;driver_truck_38;Em Andamento
+V92;16/01/2026;Magro;driver_truck_32;Concluído
+V93;25/01/2026;Gordo;driver_truck_36;Não Iniciado
+V94;12/01/2026;Gordo;driver_truck_37;Não Iniciado
+V95;03/01/2026;Magro;driver_truck_12;Concluído
+V96;24/01/2026;Gordo;driver_truck_09;Em Andamento
+V97;29/01/2026;Magro;driver_truck_19;Concluído
+V98;10/01/2026;Gordo;driver_truck_01;Concluído
+V99;11/01/2026;Magro;driver_truck_49;Não Iniciado
+V100;09/01/2026;Magro;driver_truck_09;Em Andamento
+V101;01/01/2026;Magro;driver_truck_38;Concluído
+V102;02/01/2026;Gordo;driver_truck_37;Não Iniciado
+V103;30/01/2026;Magro;driver_truck_28;Concluído
+V104;22/01/2026;Gordo;driver_truck_41;Não Iniciado
+V105;27/01/2026;Magro;driver_truck_33;Não Iniciado
+V106;02/01/2026;Magro;driver_truck_15;Em Andamento
+V107;26/01/2026;Gordo;driver_truck_03;Concluído
+V108;12/01/2026;Gordo;driver_truck_17;Em Andamento
+V109;18/01/2026;Magro;driver_truck_39;Em Andamento
+V110;13/01/2026;Gordo;driver_truck_21;Não Iniciado
+V111;22/01/2026;Gordo;driver_truck_01;Em Andamento
+V112;08/01/2026;Gordo;driver_truck_42;Em Andamento
+V113;04/01/2026;Gordo;driver_truck_30;Não Iniciado
+V114;07/01/2026;Magro;driver_truck_14;Em Andamento
+V115;31/01/2026;Gordo;driver_truck_46;Concluído
+V116;31/01/2026;Gordo;driver_truck_47;Não Iniciado
+V117;03/01/2026;Gordo;driver_truck_10;Em Andamento
+V118;03/01/2026;Gordo;driver_truck_17;Em Andamento
+V119;06/01/2026;Gordo;driver_truck_12;Concluído
+V120;12/01/2026;Gordo;driver_truck_12;Concluído
+V121;16/01/2026;Gordo;driver_truck_02;Em Andamento
+V122;07/01/2026;Gordo;driver_truck_07;Não Iniciado
+V123;24/01/2026;Gordo;driver_truck_49;Não Iniciado
+V124;20/01/2026;Gordo;driver_truck_18;Em Andamento
+V125;21/01/2026;Gordo;driver_truck_17;Concluído
+V126;09/01/2026;Magro;driver_truck_21;Não Iniciado
+V127;08/01/2026;Gordo;driver_truck_41;Não Iniciado
+V128;10/01/2026;Gordo;driver_truck_36;Em Andamento
+V129;27/01/2026;Magro;driver_truck_23;Em Andamento
+V130;07/01/2026;Gordo;driver_truck_48;Concluído
+V131;02/01/2026;Gordo;driver_truck_11;Não Iniciado
+V132;12/01/2026;Gordo;driver_truck_39;Em Andamento
+V133;05/01/2026;Magro;driver_truck_48;Não Iniciado
+V134;25/01/2026;Gordo;driver_truck_50;Não Iniciado
+V135;26/01/2026;Gordo;driver_truck_27;Não Iniciado
+V136;29/01/2026;Magro;driver_truck_44;Concluído
+V137;25/01/2026;Gordo;driver_truck_33;Concluído
+V138;04/01/2026;Magro;driver_truck_36;Concluído
+V139;21/01/2026;Gordo;driver_truck_08;Não Iniciado
+V140;03/01/2026;Magro;driver_truck_08;Concluído
+V141;12/01/2026;Magro;driver_truck_38;Em Andamento
+V142;05/01/2026;Magro;driver_truck_38;Concluído
+V143;05/01/2026;Magro;driver_truck_07;Não Iniciado
+V144;02/01/2026;Magro;driver_truck_38;Não Iniciado
+V145;22/01/2026;Magro;driver_truck_10;Concluído
+V146;04/01/2026;Gordo;driver_truck_02;Em Andamento
+V147;02/01/2026;Gordo;driver_truck_31;Em Andamento
+V148;01/01/2026;Gordo;driver_truck_03;Em Andamento
+V149;20/01/2026;Magro;driver_truck_38;Em Andamento
+V150;27/01/2026;Gordo;driver_truck_16;Em Andamento
+V151;24/01/2026;Gordo;driver_truck_37;Não Iniciado
+V152;02/01/2026;Magro;driver_truck_22;Concluído
+V153;03/01/2026;Gordo;driver_truck_20;Em Andamento
+V154;23/01/2026;Magro;driver_truck_35;Em Andamento
+V155;10/01/2026;Gordo;driver_truck_45;Não Iniciado
+V156;23/01/2026;Magro;driver_truck_26;Concluído
+V157;29/01/2026;Magro;driver_truck_33;Concluído
+V158;01/01/2026;Magro;driver_truck_42;Não Iniciado
+V159;16/01/2026;Magro;driver_truck_11;Concluído
+V160;11/01/2026;Gordo;driver_truck_38;Concluído
+V161;06/01/2026;Gordo;driver_truck_05;Concluído
+V162;16/01/2026;Magro;driver_truck_44;Concluído
+V163;06/01/2026;Magro;driver_truck_37;Não Iniciado
+V164;07/01/2026;Magro;driver_truck_26;Em Andamento
+V165;09/01/2026;Magro;driver_truck_03;Em Andamento
+V166;18/01/2026;Gordo;driver_truck_36;Concluído
+V167;22/01/2026;Gordo;driver_truck_24;Não Iniciado
+V168;03/01/2026;Magro;driver_truck_15;Não Iniciado
+V169;10/01/2026;Magro;driver_truck_35;Não Iniciado
+V170;04/01/2026;Gordo;driver_truck_47;Em Andamento
+V171;16/01/2026;Magro;driver_truck_15;Concluído
+V172;04/01/2026;Gordo;driver_truck_06;Em Andamento
+V173;22/01/2026;Gordo;driver_truck_13;Em Andamento
+V174;07/01/2026;Magro;driver_truck_01;Não Iniciado
+V175;14/01/2026;Gordo;driver_truck_40;Concluído
+V176;26/01/2026;Gordo;driver_truck_47;Em Andamento
+V177;23/01/2026;Gordo;driver_truck_24;Concluído
+V178;26/01/2026;Magro;driver_truck_28;Concluído
+V179;05/01/2026;Magro;driver_truck_06;Concluído
+V180;31/01/2026;Gordo;driver_truck_48;Concluído
+V181;17/01/2026;Gordo;driver_truck_50;Em Andamento
+V182;30/01/2026;Magro;driver_truck_37;Concluído
+V183;19/01/2026;Magro;driver_truck_41;Em Andamento
+V184;14/01/2026;Gordo;driver_truck_27;Concluído
+V185;29/01/2026;Gordo;driver_truck_20;Não Iniciado
+V186;08/01/2026;Gordo;driver_truck_14;Concluído
+V187;10/01/2026;Magro;driver_truck_37;Em Andamento
+V188;18/01/2026;Gordo;driver_truck_32;Concluído
+V189;07/01/2026;Gordo;driver_truck_20;Concluído
+V190;10/01/2026;Magro;driver_truck_44;Em Andamento
+V191;26/01/2026;Gordo;driver_truck_46;Não Iniciado
+V192;07/01/2026;Magro;driver_truck_37;Concluído
+V193;24/01/2026;Gordo;driver_truck_13;Em Andamento
+V194;17/01/2026;Magro;driver_truck_47;Não Iniciado
+V195;24/01/2026;Gordo;driver_truck_24;Não Iniciado
+V196;14/01/2026;Gordo;driver_truck_22;Em Andamento
+V197;06/01/2026;Gordo;driver_truck_19;Não Iniciado
+V198;22/01/2026;Magro;driver_truck_22;Concluído
+V199;31/01/2026;Magro;driver_truck_21;Concluído
+V200;24/01/2026;Magro;driver_truck_46;Concluído
+V201;08/01/2026;Magro;driver_truck_16;Em Andamento
+V202;23/01/2026;Magro;driver_truck_34;Não Iniciado
+V203;25/01/2026;Gordo;driver_truck_41;Concluído
+V204;14/01/2026;Magro;driver_truck_37;Não Iniciado
+V205;02/01/2026;Magro;driver_truck_47;Concluído
+V206;03/01/2026;Magro;driver_truck_01;Concluído
+V207;23/01/2026;Magro;driver_truck_09;Não Iniciado
+V208;21/01/2026;Magro;driver_truck_02;Não Iniciado
+V209;03/01/2026;Gordo;driver_truck_14;Concluído
+V210;14/01/2026;Gordo;driver_truck_06;Não Iniciado
+V211;03/01/2026;Gordo;driver_truck_02;Não Iniciado
+V212;03/01/2026;Magro;driver_truck_13;Concluído
+V213;10/01/2026;Magro;driver_truck_40;Concluído
+V214;24/01/2026;Magro;driver_truck_14;Não Iniciado
+V215;15/01/2026;Magro;driver_truck_50;Não Iniciado
+V216;31/01/2026;Magro;driver_truck_01;Concluído
+V217;02/01/2026;Magro;driver_truck_26;Concluído
+V218;15/01/2026;Magro;driver_truck_18;Concluído
+V219;14/01/2026;Magro;driver_truck_30;Em Andamento
+V220;09/01/2026;Magro;driver_truck_31;Não Iniciado
+V221;10/01/2026;Magro;driver_truck_49;Concluído
+V222;29/01/2026;Magro;driver_truck_23;Não Iniciado
+V223;04/01/2026;Magro;driver_truck_41;Concluído
+V224;01/01/2026;Magro;driver_truck_01;Não Iniciado
+V225;16/01/2026;Gordo;driver_truck_08;Em Andamento
+V226;02/01/2026;Magro;driver_truck_38;Em Andamento
+V227;20/01/2026;Magro;driver_truck_13;Em Andamento
+V228;23/01/2026;Gordo;driver_truck_05;Em Andamento
+V229;17/01/2026;Gordo;driver_truck_15;Em Andamento
+V230;08/01/2026;Magro;driver_truck_22;Não Iniciado
+V231;15/01/2026;Gordo;driver_truck_33;Não Iniciado
+V232;04/01/2026;Magro;driver_truck_21;Concluído
+V233;27/01/2026;Gordo;driver_truck_37;Em Andamento
+V234;30/01/2026;Magro;driver_truck_31;Em Andamento
+V235;30/01/2026;Gordo;driver_truck_45;Em Andamento
+V236;06/01/2026;Gordo;driver_truck_38;Não Iniciado
+V237;26/01/2026;Gordo;driver_truck_12;Em Andamento
+V238;30/01/2026;Magro;driver_truck_36;Não Iniciado
+V239;05/01/2026;Gordo;driver_truck_11;Não Iniciado
+V240;01/01/2026;Gordo;driver_truck_27;Não Iniciado
+V241;22/01/2026;Magro;driver_truck_05;Em Andamento
+V242;30/01/2026;Gordo;driver_truck_11;Não Iniciado
+V243;18/01/2026;Gordo;driver_truck_30;Em Andamento
+V244;05/01/2026;Magro;driver_truck_01;Não Iniciado
+V245;01/01/2026;Gordo;driver_truck_13;Em Andamento
+V246;12/01/2026;Gordo;driver_truck_15;Em Andamento
+V247;17/01/2026;Gordo;driver_truck_33;Concluído
+V248;01/01/2026;Gordo;driver_truck_31;Em Andamento
+V249;23/01/2026;Gordo;driver_truck_18;Em Andamento
+V250;29/01/2026;Gordo;driver_truck_29;Em Andamento
+V251;03/01/2026;Gordo;driver_truck_42;Concluído
+V252;11/01/2026;Magro;driver_truck_39;Em Andamento
+V253;15/01/2026;Magro;driver_truck_48;Concluído
+V254;20/01/2026;Magro;driver_truck_06;Concluído
+V255;14/01/2026;Gordo;driver_truck_40;Concluído
+V256;20/01/2026;Magro;driver_truck_03;Não Iniciado
+V257;31/01/2026;Magro;driver_truck_27;Não Iniciado
+V258;12/01/2026;Magro;driver_truck_06;Concluído
+V259;11/01/2026;Magro;driver_truck_29;Em Andamento
+V260;25/01/2026;Gordo;driver_truck_33;Concluído
+V261;15/01/2026;Magro;driver_truck_36;Não Iniciado
+V262;05/01/2026;Gordo;driver_truck_08;Não Iniciado
+V263;28/01/2026;Gordo;driver_truck_30;Concluído
+V264;30/01/2026;Gordo;driver_truck_27;Não Iniciado
+V265;18/01/2026;Magro;driver_truck_27;Em Andamento
+V266;09/01/2026;Gordo;driver_truck_26;Em Andamento
+V267;22/01/2026;Gordo;driver_truck_13;Concluído
+V268;27/01/2026;Gordo;driver_truck_12;Em Andamento
+V269;04/01/2026;Magro;driver_truck_28;Concluído
+V270;23/01/2026;Magro;driver_truck_10;Concluído
+V271;23/01/2026;Magro;driver_truck_44;Em Andamento
+V272;27/01/2026;Gordo;driver_truck_16;Concluído
+V273;24/01/2026;Magro;driver_truck_46;Concluído
+V274;30/01/2026;Gordo;driver_truck_46;Em Andamento
+V275;23/01/2026;Magro;driver_truck_37;Em Andamento
+V276;19/01/2026;Gordo;driver_truck_33;Não Iniciado
+V277;13/01/2026;Gordo;driver_truck_16;Em Andamento
+V278;02/01/2026;Magro;driver_truck_03;Em Andamento
+V279;02/01/2026;Gordo;driver_truck_38;Concluído
+V280;13/01/2026;Magro;driver_truck_50;Em Andamento
+V281;06/01/2026;Gordo;driver_truck_42;Em Andamento
+V282;09/01/2026;Gordo;driver_truck_12;Concluído
+V283;04/01/2026;Magro;driver_truck_08;Em Andamento
+V284;13/01/2026;Gordo;driver_truck_15;Em Andamento
+V285;02/01/2026;Gordo;driver_truck_39;Concluído
+V286;31/01/2026;Magro;driver_truck_04;Concluído
+V287;01/01/2026;Gordo;driver_truck_43;Em Andamento
+V288;26/01/2026;Gordo;driver_truck_07;Em Andamento
+V289;09/01/2026;Magro;driver_truck_27;Concluído
+V290;14/01/2026;Magro;driver_truck_33;Concluído
+V291;25/01/2026;Gordo;driver_truck_11;Não Iniciado
+V292;25/01/2026;Gordo;driver_truck_25;Concluído
+V293;09/01/2026;Magro;driver_truck_10;Não Iniciado
+V294;11/01/2026;Magro;driver_truck_10;Concluído
+V295;30/01/2026;Gordo;driver_truck_45;Em Andamento
+V296;24/01/2026;Magro;driver_truck_50;Em Andamento
+V297;05/01/2026;Magro;driver_truck_04;Concluído
+V298;23/01/2026;Magro;driver_truck_07;Não Iniciado
+V299;15/01/2026;Magro;driver_truck_05;Concluído
+V300;10/01/2026;Gordo;driver_truck_38;Não Iniciado
+V301;21/01/2026;Magro;driver_truck_23;Não Iniciado
+V302;12/01/2026;Magro;driver_truck_07;Não Iniciado
+V303;12/01/2026;Gordo;driver_truck_46;Não Iniciado
+V304;20/01/2026;Magro;driver_truck_15;Concluído
+V305;05/01/2026;Gordo;driver_truck_45;Não Iniciado
+V306;09/01/2026;Gordo;driver_truck_33;Não Iniciado
+V307;05/01/2026;Gordo;driver_truck_24;Concluído
+V308;15/01/2026;Gordo;driver_truck_47;Em Andamento
+V309;12/01/2026;Gordo;driver_truck_25;Não Iniciado
+V310;30/01/2026;Gordo;driver_truck_25;Concluído
+V311;05/01/2026;Gordo;driver_truck_22;Concluído
+V312;03/01/2026;Gordo;driver_truck_28;Concluído
+V313;23/01/2026;Magro;driver_truck_11;Não Iniciado
+V314;21/01/2026;Gordo;driver_truck_01;Concluído
+V315;22/01/2026;Magro;driver_truck_38;Concluído
+V316;28/01/2026;Gordo;driver_truck_13;Em Andamento
+V317;28/01/2026;Gordo;driver_truck_30;Não Iniciado
+V318;11/01/2026;Gordo;driver_truck_20;Em Andamento
+V319;23/01/2026;Magro;driver_truck_25;Não Iniciado
+V320;11/01/2026;Gordo;driver_truck_45;Em Andamento
+V321;26/01/2026;Magro;driver_truck_11;Em Andamento
+V322;15/01/2026;Magro;driver_truck_28;Concluído
+V323;13/01/2026;Magro;driver_truck_47;Não Iniciado
+V324;19/01/2026;Magro;driver_truck_36;Concluído
+V325;06/01/2026;Gordo;driver_truck_21;Não Iniciado
+V326;20/01/2026;Gordo;driver_truck_10;Concluído
+V327;30/01/2026;Gordo;driver_truck_31;Em Andamento
+V328;30/01/2026;Magro;driver_truck_28;Concluído
+V329;19/01/2026;Magro;driver_truck_06;Em Andamento
+V330;23/01/2026;Gordo;driver_truck_33;Não Iniciado
+V331;05/01/2026;Gordo;driver_truck_04;Em Andamento
+V332;05/01/2026;Gordo;driver_truck_21;Concluído
+V333;22/01/2026;Gordo;driver_truck_48;Em Andamento
+V334;22/01/2026;Gordo;driver_truck_40;Em Andamento
+V335;27/01/2026;Magro;driver_truck_16;Concluído
+V336;29/01/2026;Magro;driver_truck_33;Não Iniciado
+V337;31/01/2026;Gordo;driver_truck_47;Não Iniciado
+V338;10/01/2026;Magro;driver_truck_21;Concluído
+V339;08/01/2026;Magro;driver_truck_06;Concluído
+V340;05/01/2026;Magro;driver_truck_27;Em Andamento
+V341;16/01/2026;Magro;driver_truck_45;Concluído
+V342;06/01/2026;Gordo;driver_truck_05;Concluído
+V343;29/01/2026;Gordo;driver_truck_47;Em Andamento
+V344;08/01/2026;Magro;driver_truck_26;Em Andamento
+V345;09/01/2026;Gordo;driver_truck_18;Em Andamento
+V346;04/01/2026;Magro;driver_truck_12;Em Andamento
+V347;28/01/2026;Gordo;driver_truck_37;Não Iniciado
+V348;20/01/2026;Magro;driver_truck_36;Em Andamento
+V349;08/01/2026;Gordo;driver_truck_04;Em Andamento
+V350;29/01/2026;Gordo;driver_truck_03;Em Andamento
+V351;19/01/2026;Magro;driver_truck_03;Em Andamento
+V352;10/01/2026;Magro;driver_truck_36;Não Iniciado
+V353;19/01/2026;Gordo;driver_truck_08;Em Andamento
+V354;06/01/2026;Magro;driver_truck_40;Concluído
+V355;21/01/2026;Magro;driver_truck_47;Em Andamento
+V356;21/01/2026;Gordo;driver_truck_08;Concluído
+V357;10/01/2026;Gordo;driver_truck_02;Concluído
+V358;22/01/2026;Magro;driver_truck_50;Em Andamento
+V359;20/01/2026;Gordo;driver_truck_28;Em Andamento
+V360;02/01/2026;Gordo;driver_truck_33;Em Andamento
+V361;25/01/2026;Magro;driver_truck_18;Concluído
+V362;15/01/2026;Magro;driver_truck_34;Concluído
+V363;09/01/2026;Magro;driver_truck_40;Em Andamento
+V364;24/01/2026;Magro;driver_truck_46;Em Andamento
+V365;18/01/2026;Gordo;driver_truck_06;Concluído
+V366;08/01/2026;Gordo;driver_truck_24;Em Andamento
+V367;20/01/2026;Gordo;driver_truck_25;Em Andamento
+V368;13/01/2026;Gordo;driver_truck_17;Não Iniciado
+V369;03/01/2026;Gordo;driver_truck_19;Concluído
+V370;30/01/2026;Magro;driver_truck_19;Em Andamento
+V371;27/01/2026;Magro;driver_truck_49;Não Iniciado
+V372;22/01/2026;Magro;driver_truck_40;Não Iniciado
+V373;21/01/2026;Magro;driver_truck_43;Concluído
+V374;30/01/2026;Gordo;driver_truck_40;Em Andamento
+V375;06/01/2026;Magro;driver_truck_20;Concluído
+V376;28/01/2026;Gordo;driver_truck_05;Em Andamento
+V377;16/01/2026;Gordo;driver_truck_22;Não Iniciado
+V378;16/01/2026;Magro;driver_truck_36;Não Iniciado
+V379;07/01/2026;Magro;driver_truck_10;Concluído
+V380;24/01/2026;Gordo;driver_truck_11;Em Andamento
+V381;03/01/2026;Gordo;driver_truck_21;Concluído
+V382;28/01/2026;Magro;driver_truck_40;Não Iniciado
+V383;17/01/2026;Gordo;driver_truck_22;Concluído
+V384;17/01/2026;Gordo;driver_truck_15;Em Andamento
+V385;21/01/2026;Magro;driver_truck_10;Em Andamento
+V386;20/01/2026;Magro;driver_truck_39;Em Andamento
+V387;24/01/2026;Magro;driver_truck_33;Não Iniciado
+V388;16/01/2026;Magro;driver_truck_50;Em Andamento
+V389;30/01/2026;Gordo;driver_truck_42;Em Andamento
+V390;08/01/2026;Magro;driver_truck_13;Em Andamento
+V391;13/01/2026;Gordo;driver_truck_14;Não Iniciado
+V392;05/01/2026;Gordo;driver_truck_23;Concluído
+V393;02/01/2026;Gordo;driver_truck_33;Em Andamento
+V394;12/01/2026;Gordo;driver_truck_17;Não Iniciado
+V395;16/01/2026;Magro;driver_truck_18;Concluído
+V396;03/01/2026;Magro;driver_truck_37;Concluído
+V397;03/01/2026;Magro;driver_truck_08;Não Iniciado
+V398;24/01/2026;Magro;driver_truck_45;Concluído
+V399;23/01/2026;Gordo;driver_truck_05;Concluído
+V400;18/01/2026;Magro;driver_truck_04;Não Iniciado
+V401;12/01/2026;Gordo;driver_truck_42;Concluído
+V402;30/01/2026;Gordo;driver_truck_14;Em Andamento
+V403;19/01/2026;Gordo;driver_truck_01;Em Andamento
+V404;23/01/2026;Magro;driver_truck_22;Não Iniciado
+V405;30/01/2026;Magro;driver_truck_39;Em Andamento
+V406;21/01/2026;Magro;driver_truck_13;Não Iniciado
+V407;15/01/2026;Magro;driver_truck_15;Concluído
+V408;19/01/2026;Magro;driver_truck_33;Concluído
+V409;22/01/2026;Gordo;driver_truck_14;Em Andamento
+V410;26/01/2026;Gordo;driver_truck_01;Concluído
+V411;10/01/2026;Gordo;driver_truck_39;Concluído
+V412;14/01/2026;Magro;driver_truck_12;Concluído
+V413;24/01/2026;Gordo;driver_truck_18;Em Andamento
+V414;07/01/2026;Magro;driver_truck_08;Concluído
+V415;28/01/2026;Gordo;driver_truck_12;Concluído
+V416;09/01/2026;Gordo;driver_truck_18;Não Iniciado
+V417;03/01/2026;Gordo;driver_truck_11;Não Iniciado
+V418;22/01/2026;Gordo;driver_truck_15;Concluído
+V419;20/01/2026;Magro;driver_truck_33;Em Andamento
+V420;23/01/2026;Gordo;driver_truck_04;Não Iniciado
+V421;28/01/2026;Gordo;driver_truck_31;Em Andamento
+V422;16/01/2026;Magro;driver_truck_09;Em Andamento
+V423;26/01/2026;Gordo;driver_truck_12;Concluído
+V424;14/01/2026;Magro;driver_truck_11;Em Andamento
+V425;06/01/2026;Gordo;driver_truck_48;Concluído
+V426;05/01/2026;Magro;driver_truck_22;Concluído
+V427;09/01/2026;Magro;driver_truck_43;Não Iniciado
+V428;11/01/2026;Magro;driver_truck_41;Concluído
+V429;16/01/2026;Gordo;driver_truck_10;Não Iniciado
+V430;22/01/2026;Gordo;driver_truck_04;Em Andamento
+V431;09/01/2026;Gordo;driver_truck_19;Em Andamento
+V432;04/01/2026;Magro;driver_truck_26;Não Iniciado
+V433;03/01/2026;Magro;driver_truck_46;Em Andamento
+V434;23/01/2026;Magro;driver_truck_50;Concluído
+V435;26/01/2026;Gordo;driver_truck_26;Em Andamento
+V436;02/01/2026;Magro;driver_truck_14;Não Iniciado
+V437;12/01/2026;Gordo;driver_truck_29;Concluído
+V438;26/01/2026;Magro;driver_truck_32;Concluído
+V439;20/01/2026;Gordo;driver_truck_42;Em Andamento
+V440;15/01/2026;Gordo;driver_truck_47;Em Andamento
+V441;11/01/2026;Gordo;driver_truck_36;Em Andamento
+V442;10/01/2026;Magro;driver_truck_17;Não Iniciado
+V443;12/01/2026;Magro;driver_truck_14;Concluído
+V444;21/01/2026;Magro;driver_truck_43;Não Iniciado
+V445;09/01/2026;Gordo;driver_truck_42;Em Andamento
+V446;25/01/2026;Gordo;driver_truck_46;Não Iniciado
+V447;17/01/2026;Magro;driver_truck_29;Em Andamento
+V448;14/01/2026;Gordo;driver_truck_31;Em Andamento
+V449;28/01/2026;Magro;driver_truck_13;Concluído
+V450;21/01/2026;Magro;driver_truck_36;Não Iniciado
+V451;23/01/2026;Gordo;driver_truck_25;Concluído
+V452;01/01/2026;Gordo;driver_truck_48;Não Iniciado
+V453;05/01/2026;Gordo;driver_truck_35;Não Iniciado
+V454;20/01/2026;Gordo;driver_truck_44;Não Iniciado
+V455;29/01/2026;Gordo;driver_truck_05;Concluído
+V456;22/01/2026;Gordo;driver_truck_06;Não Iniciado
+V457;05/01/2026;Magro;driver_truck_06;Não Iniciado
+V458;08/01/2026;Gordo;driver_truck_10;Não Iniciado
+V459;19/01/2026;Gordo;driver_truck_34;Em Andamento
+V460;29/01/2026;Magro;driver_truck_26;Não Iniciado
+V461;09/01/2026;Gordo;driver_truck_23;Não Iniciado
+V462;21/01/2026;Gordo;driver_truck_18;Em Andamento
+V463;21/01/2026;Gordo;driver_truck_03;Em Andamento
+V464;29/01/2026;Gordo;driver_truck_45;Em Andamento
+V465;13/01/2026;Magro;driver_truck_35;Concluído
+V466;19/01/2026;Magro;driver_truck_09;Em Andamento
+V467;27/01/2026;Gordo;driver_truck_24;Concluído
+V468;27/01/2026;Magro;driver_truck_16;Não Iniciado
+V469;02/01/2026;Gordo;driver_truck_21;Em Andamento
+V470;15/01/2026;Gordo;driver_truck_11;Não Iniciado
+V471;03/01/2026;Gordo;driver_truck_17;Concluído
+V472;15/01/2026;Magro;driver_truck_02;Concluído
+V473;23/01/2026;Magro;driver_truck_20;Concluído
+V474;28/01/2026;Gordo;driver_truck_46;Não Iniciado
+V475;31/01/2026;Gordo;driver_truck_09;Em Andamento
+V476;14/01/2026;Magro;driver_truck_23;Concluído
+V477;16/01/2026;Magro;driver_truck_34;Concluído
+V478;06/01/2026;Magro;driver_truck_27;Não Iniciado
+V479;16/01/2026;Magro;driver_truck_32;Não Iniciado
+V480;08/01/2026;Magro;driver_truck_31;Em Andamento
+V481;12/01/2026;Magro;driver_truck_32;Em Andamento
+V482;22/01/2026;Gordo;driver_truck_12;Em Andamento
+V483;12/01/2026;Magro;driver_truck_35;Concluído
+V484;01/01/2026;Magro;driver_truck_38;Concluído
+V485;15/01/2026;Magro;driver_truck_02;Não Iniciado
+V486;10/01/2026;Magro;driver_truck_34;Concluído
+V487;13/01/2026;Gordo;driver_truck_37;Concluído
+V488;19/01/2026;Gordo;driver_truck_12;Concluído
+V489;24/01/2026;Magro;driver_truck_03;Em Andamento
+V490;08/01/2026;Gordo;driver_truck_48;Não Iniciado
+V491;20/01/2026;Magro;driver_truck_10;Concluído
+V492;10/01/2026;Magro;driver_truck_33;Não Iniciado
+V493;01/01/2026;Gordo;driver_truck_12;Concluído
+V494;17/01/2026;Magro;driver_truck_22;Concluído
+V495;16/01/2026;Magro;driver_truck_31;Em Andamento
+V496;01/01/2026;Magro;driver_truck_36;Não Iniciado
+V497;29/01/2026;Magro;driver_truck_37;Em Andamento
+V498;03/01/2026;Gordo;driver_truck_18;Concluído
+V499;06/01/2026;Gordo;driver_truck_12;Em Andamento
+V500;22/01/2026;Magro;driver_truck_08;Concluído
