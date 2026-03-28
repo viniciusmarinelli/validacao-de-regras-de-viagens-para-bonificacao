@@ -13,7 +13,7 @@ def data_processing(arq_trips_sample, arq_drivers_sample):
 
     df_drivers = pd.DataFrame(drivers_table) #criando um dataFrame
 
-    df_triple['Data Viagem'] = pd.to_datetime(df_triple['Data Viagem'], errors='coerce', dayfirst=True).dt.date #Convertendo a coluna de data para o formato datetime
+    df_triple['Data Viagem'] = pd.to_datetime(df_triple['Data Viagem'], errors='coerce', dayfirst=True) #Convertendo a coluna de data para o formato datetime64
 
     group_triple = df_triple.groupby(['Data Viagem', 'Driver']).agg({
         'Id Viagem': list,
@@ -22,6 +22,7 @@ def data_processing(arq_trips_sample, arq_drivers_sample):
 
     merge_table = pd.merge(group_triple, df_drivers, left_on='Driver', right_on='Driver', how='left') #Fazendo um merge entre as tabelas de viagens e motoristas
 
-    merge_table = df_triple.drop(columns=['Driver'], inplace=True) #Removendo a coluna de driver, pois ela já foi agregada na tabela de merge
+    # Não sobrescrever merge_table com o resultado de inplace=True, que é None
+    df_triple.drop(columns=['Driver'], inplace=True) #Removendo a coluna de driver, pois ela já foi agregada na tabela de merge
 
     return merge_table
